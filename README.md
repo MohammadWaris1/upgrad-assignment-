@@ -1,8 +1,8 @@
 # upgrad-assignment-
-# Python program to display all the prime numbers within an interval using for loop and range function
+Python program to display all the prime numbers using for loop and range function
 
-#to find prime no :- 
-#given no are 1 and 200
+to find prime no :- 
+given no are 1 and 200
 a =1
 b =200
 
@@ -17,3 +17,4 @@ for num in range(a , b + 1):
        else:
             print(num)
         
+ 
